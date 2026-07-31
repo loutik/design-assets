@@ -6,7 +6,7 @@
 
 ## Contexte
 
-Ce dépôt contient l'ensemble des éléments graphiques de Loutik utilisés pour les fichiers `README.md` de l'organisation GitHub.
+Ce dépôt contient l'ensemble des éléments graphiques de Loutik ([Figma](https://www.figma.com/design/6gbKHtoMxop82HpwvScUDE/Loutik---Branding?node-id=0-1&t=EtoJqfQe9I0oF6CW-1)) utilisés pour les fichiers `README.md` de l'organisation GitHub.
 
 ## Utilisation
 
@@ -30,7 +30,7 @@ Pour utiliser les images dans les fichiers `README.md`, vous devez utiliser la s
 ![https://raw.githubusercontent.com/loutik/design-assets/main/logo_loutik.png](https://raw.githubusercontent.com/loutik/design-assets/main/logo_loutik.png)
 ```
 
-### Bannière LoutikCloud
+### Bannière LoutikCLOUD
 
 ![Bannière LoutikCloud](https://raw.githubusercontent.com/loutik/design-assets/main/loutikcloud/banniere_loutikcloud.png)
 
@@ -38,7 +38,7 @@ Pour utiliser les images dans les fichiers `README.md`, vous devez utiliser la s
 ![Bannière LoutikCloud](https://raw.githubusercontent.com/loutik/design-assets/main/loutikcloud/banniere_loutikcloud.png)
 ```
 
-### Logo LoutikCloud
+### Logo LoutikCLOUD
 
 ![Logo LoutikCloud](https://raw.githubusercontent.com/loutik/design-assets/main/loutikcloud/logo_loutikcloud.png)
 
@@ -46,7 +46,7 @@ Pour utiliser les images dans les fichiers `README.md`, vous devez utiliser la s
 ![Logo LoutikCloud](https://raw.githubusercontent.com/loutik/design-assets/main/loutikcloud/logo_loutikcloud.png)
 ```
 
-### Bannière LoutikDash
+### Bannière LoutikDASH
 
 ![Bannière LoutikDash](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdash/banniere_loutikdash.png)
 
@@ -54,7 +54,7 @@ Pour utiliser les images dans les fichiers `README.md`, vous devez utiliser la s
 ![Bannière LoutikDash](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdash/banniere_loutikdash.png)
 ```
 
-### Logo LoutikDash
+### Logo LoutikDASH
 
 ![Logo LoutikDash](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdash/logo_loutikdash.png)
 
@@ -62,7 +62,7 @@ Pour utiliser les images dans les fichiers `README.md`, vous devez utiliser la s
 ![Logo LoutikDash](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdash/logo_loutikdash.png)
 ```
 
-### Bannière LoutikDocs
+### Bannière LoutikDOCS
 
 ![Bannière LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdocs/banniere_loutikdocs.png)
 
@@ -70,12 +70,28 @@ Pour utiliser les images dans les fichiers `README.md`, vous devez utiliser la s
 ![Bannière LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdocs/banniere_loutikdocs.png)
 ```
 
-### Logo LoutikDocs
+### Logo LoutikDOCS
 
 ![Logo LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdocs/logo_loutikdocs.png)
 
 ```markdown
 ![Logo LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdocs/logo_loutikdocs.png)
+```
+
+### Bannière LoutikSTATUS
+
+![Bannière LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikstatus/banniere_loutikstatus.png)
+
+```markdown
+![Bannière LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikstatus/banniere_loutikstatus.png)
+```
+
+### Logo LoutikSTATUS
+
+![Logo LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikstatus/logo_loutikstatus.png)
+
+```markdown
+![Logo LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikstatus/logo_loutikstatus.png)
 ```
 
 ---
