@@ -32,50 +32,50 @@ Pour utiliser les images dans les fichiers `README.md`, vous devez utiliser la s
 
 ### Bannière LoutikCLOUD
 
-![Bannière LoutikCloud](https://raw.githubusercontent.com/loutik/design-assets/main/loutikcloud/banniere_loutikcloud.png)
+![Bannière LoutikCLOUD](https://raw.githubusercontent.com/loutik/design-assets/main/loutikcloud/banniere_loutikcloud.png)
 
 ```markdown
-![Bannière LoutikCloud](https://raw.githubusercontent.com/loutik/design-assets/main/loutikcloud/banniere_loutikcloud.png)
+![Bannière LoutikCLOUD](https://raw.githubusercontent.com/loutik/design-assets/main/loutikcloud/banniere_loutikcloud.png)
 ```
 
 ### Logo LoutikCLOUD
 
-![Logo LoutikCloud](https://raw.githubusercontent.com/loutik/design-assets/main/loutikcloud/logo_loutikcloud.png)
+![Logo LoutikCLOUD](https://raw.githubusercontent.com/loutik/design-assets/main/loutikcloud/logo_loutikcloud.png)
 
 ```markdown
-![Logo LoutikCloud](https://raw.githubusercontent.com/loutik/design-assets/main/loutikcloud/logo_loutikcloud.png)
+![Logo LoutikCLOUD](https://raw.githubusercontent.com/loutik/design-assets/main/loutikcloud/logo_loutikcloud.png)
 ```
 
 ### Bannière LoutikDASH
 
-![Bannière LoutikDash](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdash/banniere_loutikdash.png)
+![Bannière LoutikDASH](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdash/banniere_loutikdash.png)
 
 ```markdown
-![Bannière LoutikDash](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdash/banniere_loutikdash.png)
+![Bannière LoutikDASH](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdash/banniere_loutikdash.png)
 ```
 
 ### Logo LoutikDASH
 
-![Logo LoutikDash](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdash/logo_loutikdash.png)
+![Logo LoutikDASH](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdash/logo_loutikdash.png)
 
 ```markdown
-![Logo LoutikDash](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdash/logo_loutikdash.png)
+![Logo LoutikDASH](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdash/logo_loutikdash.png)
 ```
 
 ### Bannière LoutikDOCS
 
-![Bannière LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdocs/banniere_loutikdocs.png)
+![Bannière LoutikDOCS](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdocs/banniere_loutikdocs.png)
 
 ```markdown
-![Bannière LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdocs/banniere_loutikdocs.png)
+![Bannière LoutikDOCS](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdocs/banniere_loutikdocs.png)
 ```
 
 ### Logo LoutikDOCS
 
-![Logo LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdocs/logo_loutikdocs.png)
+![Logo LoutikDOCS](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdocs/logo_loutikdocs.png)
 
 ```markdown
-![Logo LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdocs/logo_loutikdocs.png)
+![Logo LoutikDOCS](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdocs/logo_loutikdocs.png)
 ```
 
 ### Bannière LoutikSTATUS
