@@ -158,6 +158,38 @@ Pour utiliser les images dans les fichiers `README.md`, vous devez utiliser la s
 ![Logo LoutikDRIVE](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdrive/logo_loutikdrive.png)
 ```
 
+### Bannière LoutikLAB
+
+![Bannière LoutikLAB](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdlab/banniere_loutikdlab.png)
+
+```markdown
+![Bannière LoutikLAB](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdlab/banniere_loutikdlab.png)
+```
+
+### Logo LoutikLAB
+
+![Logo LoutikLAB](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdlab/logo_loutikdlab.png)
+
+```markdown
+![Logo LoutikLAB](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdlab/logo_loutikdlab.png)
+```
+
+### Bannière LoutikSSO
+
+![Bannière LoutikSSO](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdsso/banniere_loutikdsso.png)
+
+```markdown
+![Bannière LoutikSSO](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdsso/banniere_loutikdsso.png)
+```
+
+### Logo LoutikSSO
+
+![Logo LoutikSSO](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdsso/logo_loutikdsso.png)
+
+```markdown
+![Logo LoutikSSO](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdsso/logo_loutikdsso.png)
+```
+
 ### Wallpaper LoutikTILE
 
 ![Wallpaper LoutikTILE](https://raw.githubusercontent.com/loutik/design-assets/main/wallpapers/wallpaper_loutiktile.png)
