@@ -160,34 +160,50 @@ Pour utiliser les images dans les fichiers `README.md`, vous devez utiliser la s
 
 ### Bannière LoutikLAB
 
-![Bannière LoutikLAB](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdlab/banniere_loutikdlab.png)
+![Bannière LoutikLAB](https://raw.githubusercontent.com/loutik/design-assets/main/loutiklab/banniere_loutiklab.png)
 
 ```markdown
-![Bannière LoutikLAB](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdlab/banniere_loutikdlab.png)
+![Bannière LoutikLAB](https://raw.githubusercontent.com/loutik/design-assets/main/loutiklab/banniere_loutiklab.png)
 ```
 
 ### Logo LoutikLAB
 
-![Logo LoutikLAB](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdlab/logo_loutikdlab.png)
+![Logo LoutikLAB](https://raw.githubusercontent.com/loutik/design-assets/main/loutiklab/logo_loutiklab.png)
 
 ```markdown
-![Logo LoutikLAB](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdlab/logo_loutikdlab.png)
+![Logo LoutikLAB](https://raw.githubusercontent.com/loutik/design-assets/main/loutiklab/logo_loutiklab.png)
 ```
 
 ### Bannière LoutikSSO
 
-![Bannière LoutikSSO](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdsso/banniere_loutikdsso.png)
+![Bannière LoutikSSO](https://raw.githubusercontent.com/loutik/design-assets/main/loutiksso/banniere_loutiksso.png)
 
 ```markdown
-![Bannière LoutikSSO](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdsso/banniere_loutikdsso.png)
+![Bannière LoutikSSO](https://raw.githubusercontent.com/loutik/design-assets/main/loutiksso/banniere_loutiksso.png)
 ```
 
 ### Logo LoutikSSO
 
-![Logo LoutikSSO](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdsso/logo_loutikdsso.png)
+![Logo LoutikSSO](https://raw.githubusercontent.com/loutik/design-assets/main/loutiksso/logo_loutiksso.png)
 
 ```markdown
-![Logo LoutikSSO](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdsso/logo_loutikdsso.png)
+![Logo LoutikSSO](https://raw.githubusercontent.com/loutik/design-assets/main/loutiksso/logo_loutiksso.png)
+```
+
+### Bannière LoutikPDF
+
+![Bannière LoutikPDF](https://raw.githubusercontent.com/loutik/design-assets/main/loutikpdf/banniere_loutikpdf.png)
+
+```markdown
+![Bannière LoutikPDF](https://raw.githubusercontent.com/loutik/design-assets/main/loutikpdf/banniere_loutikpdf.png)
+```
+
+### Logo LoutikPDF
+
+![Logo LoutikPDF](https://raw.githubusercontent.com/loutik/design-assets/main/loutikpdf/logo_loutikpdf.png)
+
+```markdown
+![Logo LoutikPDF](https://raw.githubusercontent.com/loutik/design-assets/main/loutikpdf/logo_loutikpdf.png)
 ```
 
 ### Wallpaper LoutikTILE
