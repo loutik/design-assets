@@ -80,18 +80,34 @@ Pour utiliser les images dans les fichiers `README.md`, vous devez utiliser la s
 
 ### Bannière LoutikSTATUS
 
-![Bannière LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikstatus/banniere_loutikstatus.png)
+![Bannière LoutikSTATUS](https://raw.githubusercontent.com/loutik/design-assets/main/loutikstatus/banniere_loutikstatus.png)
 
 ```markdown
-![Bannière LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikstatus/banniere_loutikstatus.png)
+![Bannière LoutikSTATUS](https://raw.githubusercontent.com/loutik/design-assets/main/loutikstatus/banniere_loutikstatus.png)
 ```
 
 ### Logo LoutikSTATUS
 
-![Logo LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikstatus/logo_loutikstatus.png)
+![Logo LoutikSTATUS](https://raw.githubusercontent.com/loutik/design-assets/main/loutikstatus/logo_loutikstatus.png)
 
 ```markdown
-![Logo LoutikDocs](https://raw.githubusercontent.com/loutik/design-assets/main/loutikstatus/logo_loutikstatus.png)
+![Logo LoutikSTATUS](https://raw.githubusercontent.com/loutik/design-assets/main/loutikstatus/logo_loutikstatus.png)
+```
+
+### Bannière LoutikPAGES
+
+![Bannière LoutikPAGES](https://raw.githubusercontent.com/loutik/design-assets/main/loutikpages/banniere_loutikpages.png)
+
+```markdown
+![Bannière LoutikPAGES](https://raw.githubusercontent.com/loutik/design-assets/main/loutikpages/banniere_loutikpages.png)
+```
+
+### Logo LoutikPAGES
+
+![Logo LoutikPAGES](https://raw.githubusercontent.com/loutik/design-assets/main/loutikpages/logo_loutikpages.png)
+
+```markdown
+![Logo LoutikPAGES](https://raw.githubusercontent.com/loutik/design-assets/main/loutikpages/logo_loutikpages.png)
 ```
 
 ---
