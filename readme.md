@@ -158,6 +158,14 @@ Pour utiliser les images dans les fichiers `README.md`, vous devez utiliser la s
 ![Logo LoutikDRIVE](https://raw.githubusercontent.com/loutik/design-assets/main/loutikdrive/logo_loutikdrive.png)
 ```
 
+### Wallpaper LoutikTILE
+
+![Wallpaper LoutikTILE](https://raw.githubusercontent.com/loutik/design-assets/main/wallpapers/wallpaper_loutiktile.png)
+
+```markdown
+![Wallpaper LoutikTILE](https://raw.githubusercontent.com/loutik/design-assets/main/wallpapers/wallpaper_loutiktile.png)
+```
+
 ---
 
 ## 👨‍💻 Mainteneurs
