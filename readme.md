@@ -120,10 +120,26 @@ Pour utiliser les images dans les fichiers `README.md`, vous devez utiliser la s
 
 ### Logo LoutikSPEED
 
-![Logo LoutikSPEED](https://raw.githubusercontent.com/loutik/design-assets/main/loutikpages/logo_loutikspeed.png)
+![Logo LoutikSPEED](https://raw.githubusercontent.com/loutik/design-assets/main/loutikspeed/logo_loutikspeed.png)
 
 ```markdown
-![Logo LoutikSPEED](https://raw.githubusercontent.com/loutik/design-assets/main/loutikpages/logo_loutikspeed.png)
+![Logo LoutikSPEED](https://raw.githubusercontent.com/loutik/design-assets/main/loutikspeed/logo_loutikspeed.png)
+```
+
+### Bannière LoutikSITES
+
+![Bannière LoutikSITES](https://raw.githubusercontent.com/loutik/design-assets/main/loutiksites/banniere_loutiksites.png)
+
+```markdown
+![Bannière LoutikSITES](https://raw.githubusercontent.com/loutik/design-assets/main/loutiksites/banniere_loutiksites.png)
+```
+
+### Logo LoutikSITES
+
+![Logo LoutikSITES](https://raw.githubusercontent.com/loutik/design-assets/main/loutiksites/logo_loutiksites.png)
+
+```markdown
+![Logo LoutikSITES](https://raw.githubusercontent.com/loutik/design-assets/main/loutiksites/logo_loutiksites.png)
 ```
 
 ---
